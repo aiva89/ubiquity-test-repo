@@ -9,7 +9,7 @@ To run the app:
 - Device Requirements
   - Physical Device/Emulator: Needs to run Android 7.0 (API 24) or higher.
   - For Best Experience: Use an emulator with API 36 to test the latest features and behaviors intended by the targetSdk.
-- git clone https://github.com/aiva89/ubiquity-test-repo.git
+- git clone https://github.com/aiva89/ubiquiti-test-repo.git
 - Open Android Studio
   - Run gradle sync
   - Select your device and press green play button (Run)
